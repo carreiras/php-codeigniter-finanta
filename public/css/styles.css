@@ -1,0 +1,36 @@
+.avatar-navbar {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.avatar-profile {
+    width: 128px;
+    height: 120px;
+    overflow: hidden;
+    border-radius: 50%;
+    border: 2px solid white;
+}
+
+.teste {
+    font-weight: bold;
+    font-size:x-large;
+    color: #929393;
+}
+/*
+.bd-sidebar {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 5rem;
+    display: block !important;
+    height: calc(100vh - 6rem);
+    padding-left: 0.25rem;
+    margin-left: -0.25rem;
+    overflow-y: auto;
+}
+
+.bd-gutter {
+    --bs-gutter-x: 3rem;
+}
+*/
